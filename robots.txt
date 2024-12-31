@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://idngg.github.io/mahjong-wins-3/sitemap.xml
